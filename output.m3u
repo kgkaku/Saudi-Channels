@@ -1,53 +1,53 @@
 #EXTM3U
-# Playlist generated: 2026-03-25T12:38:47.072424
+# Playlist generated: 2026-03-25T18:41:02.614073
 # By @kgkaku
 
 #EXTINF:-1 tvg-id="2" tvg-name="قناة السعودية – البث المباشر" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/fullhd_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png" group-title="Aloula Live",قناة السعودية – البث المباشر
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1774528727~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=ef9f01a500f37a6188f3418f988e38414477a2bfb10bf3a4693db61487c9ad68/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1774550463~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=f0d3c3c4645cde7bbf259f7324ea307d117b92d47a28521bee87afa1ce55accd/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="قناة SBC – البث المباشر" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/fullhd_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="Aloula Live",قناة SBC – البث المباشر
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/sbclive/sbc.smil/sbcpublish/sbc_source/hdntl=exp=1774528728~acl=%2fsbclive%2fsbc.smil%2f*~data=hdntl~hmac=e0f980cd0e569cbb3447d49463b6bd2c7a799aa3ba9b71e1133b481d87a6d670/chunks_dvr.m3u8
+https://live.kwikmotion.com/sbclive/sbc.smil/sbcpublish/sbc_source/hdntl=exp=1774550464~acl=%2fsbclive%2fsbc.smil%2f*~data=hdntl~hmac=1b2c113399a4ec62dae8e68f7a052b35ab49e00b811f71fa306b9c4cf8307fdd/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="قناة الإخبارية – البث المباشر" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/fullhd_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="Aloula Live",قناة الإخبارية – البث المباشر
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ikhbariyalive/ikhbariya.smil/ikhbariyapublish/ikhbariya_source/hdntl=exp=1774528729~acl=%2fikhbariyalive%2fikhbariya.smil%2f*~data=hdntl~hmac=6f7e3cb88d7007fcef0491bd0f3d3e99a5d3661c63020f16ff5f3dcd9cf39f36/chunks_dvr.m3u8
+https://live.kwikmotion.com/ikhbariyalive/ikhbariya.smil/ikhbariyapublish/ikhbariya_source/hdntl=exp=1774550465~acl=%2fikhbariyalive%2fikhbariya.smil%2f*~data=hdntl~hmac=2473858ced72961ab2bb5256e368269441028e10f11ad2f85ab3a97644592517/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="السعودية الآن" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/fullhd_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" group-title="Aloula Live",السعودية الآن
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksasports4live/ksasports4.smil/ksasports4publish/ksasports4_source/hdntl=exp=1774528732~acl=%2fksasports4live%2fksasports4.smil%2f*~data=hdntl~hmac=ca4d123733f9727b48174ead3a7d8c5f357e18bf5afb9ae8b0095cc191ae4f93/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksasports4live/ksasports4.smil/ksasports4publish/ksasports4_source/hdntl=exp=1774550466~acl=%2fksasports4live%2fksasports4.smil%2f*~data=hdntl~hmac=f77134964c1c0208da52b4a8711a2cf4adb463955be4bf768c44a3ca9134b477/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="قناة ذكريات – البث المباشر" tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/fullhd_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Aloula Live",قناة ذكريات – البث المباشر
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/zikrayatpublish/zikrayat_source/hdntl=exp=1774528734~acl=%2fzikrayatlive%2fzikrayat.smil%2f*~data=hdntl~hmac=f6f9c04b0347d80744791cc21bb351ab921ef369417974338f99cefab8a4d601/chunks_dvr.m3u8
+https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/zikrayatpublish/zikrayat_source/hdntl=exp=1774550467~acl=%2fzikrayatlive%2fzikrayat.smil%2f*~data=hdntl~hmac=626a910b53dcb46dbb2aa39da271028fc22eb210b2ae84e8d5baaa4537e07b90/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="قناة القرآن الكريم – البث المباشر" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="Aloula Live",قناة القرآن الكريم – البث المباشر
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/ksaquranpublish/ksaquran_source/hdntl=exp=1774528737~acl=%2fksaquranlive%2fksaquran.smil%2f*~data=hdntl~hmac=4a8505f067d1aac625d22085bf7b26208d507f08eacea2f19ebf69fd4a4c9cf5/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/ksaquranpublish/ksaquran_source/hdntl=exp=1774550469~acl=%2fksaquranlive%2fksaquran.smil%2f*~data=hdntl~hmac=2b3c488b1b8bc7fc570bec7c39c2ab571d0b5bd428ba2b46d4c148da41101181/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="قناة السنة النبوية – البث المباشر" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Aloula Live",قناة السنة النبوية – البث المباشر
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/ksasunnapublish/ksasunna_source/hdntl=exp=1774528737~acl=%2fksasunnalive%2fksasunna.smil%2f*~data=hdntl~hmac=4bf6db9e84b80a385a55cfa60286e64cb55ac13c40170667026035ddd66a50ec/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/ksasunnapublish/ksasunna_source/hdntl=exp=1774550470~acl=%2fksasunnalive%2fksasunna.smil%2f*~data=hdntl~hmac=2aeff010df542b4eef7155f69634858d4ef8efcdb684ef349497471fedf89766/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="قناة الرياضية 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="Aloula Live",قناة الرياضية 1
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksasports1live/ksasports1.smil/ksasports1publish/ksasports1_source/hdntl=exp=1774528738~acl=%2fksasports1live%2fksasports1.smil%2f*~data=hdntl~hmac=cfebcebd9d4f01c4fbc14e70e4798b1ea47cd2fb063cc4e5d20c074adfcaf1a8/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksasports1live/ksasports1.smil/ksasports1publish/ksasports1_source/hdntl=exp=1774550471~acl=%2fksasports1live%2fksasports1.smil%2f*~data=hdntl~hmac=82035882fa14977a9eb8196c8c2e9cc5d942536a3f3193804224fbfda6d195b0/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="قناة الرياضية 2" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="Aloula Live",قناة الرياضية 2
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksasports2live/ksasports2.smil/ksasports2publish/ksasports2_source/hdntl=exp=1774528738~acl=%2fksasports2live%2fksasports2.smil%2f*~data=hdntl~hmac=cc6704fe529d679a90be6c035d34673e9fdb3a4a3c0b4aaa29d3c77548867ebe/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksasports2live/ksasports2.smil/ksasports2publish/ksasports2_source/hdntl=exp=1774550474~acl=%2fksasports2live%2fksasports2.smil%2f*~data=hdntl~hmac=dc6789b30ba29c06dc7cb4092ad84fd75afbe695269529233774b97d8ed87154/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="قناة الرياضية 3" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="Aloula Live",قناة الرياضية 3
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.kwikmotion.com/ksasports3live/ksasports3.smil/ksasports3publish/ksasports3_source/hdntl=exp=1774528742~acl=%2fksasports3live%2fksasports3.smil%2f*~data=hdntl~hmac=69938e5f75b8641d05fa62026afe373bb8bb0993d2d3f6219c2adec40a2dbef7/chunks_dvr.m3u8
+https://live.kwikmotion.com/ksasports3live/ksasports3.smil/ksasports3publish/ksasports3_source/hdntl=exp=1774550475~acl=%2fksasports3live%2fksasports3.smil%2f*~data=hdntl~hmac=ca4514cbc3b2fe92ea83b8271d6ffcfcf179bb69eede887cf8a5419ac1721994/chunks_dvr.m3u8
